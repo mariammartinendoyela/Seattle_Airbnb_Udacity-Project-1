@@ -26,7 +26,7 @@ For an in-depth exploration of the analysis findings and insights, please refer 
 
 
 # Appreciation
-The dataset utilized in this project originates from the Seattle Airbnb Open Data, which is publicly accessible on Kaggle [Seattle Airbnb Open Data (https://www.kaggle.com/datasets/airbnb/seattle/data)]. 
+The dataset utilized in this project originates from the Seattle Airbnb Open Data, which is publicly accessible on Kaggle [Seattle Airbnb Open Data](https://www.kaggle.com/datasets/airbnb/seattle/data). 
 
 
 # Guidelines for Contribution
